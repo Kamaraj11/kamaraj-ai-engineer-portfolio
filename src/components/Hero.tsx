@@ -143,7 +143,7 @@ export default function Hero() {
               initial={{ opacity: 0, y: 12 }}
               animate={{ opacity: 1, y: 0 }}
               transition={{ delay: 0.9, duration: 0.5 }}
-              className="absolute -bottom-4 left-1/2 flex -translate-x-1/2 items-center gap-2.5 rounded-2xl border border-surface-border bg-bg-900/95 px-4 py-2.5 shadow-2xl shadow-black/40 backdrop-blur-md"
+              className="absolute -bottom-4 left-1/2 flex -translate-x-1/2 items-center gap-2.5 whitespace-nowrap rounded-2xl border border-surface-border bg-bg-900/95 px-4 py-2.5 shadow-2xl shadow-black/40 backdrop-blur-md"
             >
               <span className="relative flex h-2 w-2">
                 <span className="absolute inline-flex h-full w-full animate-ping rounded-full bg-accent opacity-75" />

@@ -78,7 +78,7 @@ export default function Hero() {
             >
               <Github size={16} /> GitHub
             </a>
-            <a href={RESUME_URL} download className="btn-ghost">
+            <a href={RESUME_URL} download="Kamaraj_B_AI_Engineer_Resume.pdf" target="_blank" rel="noopener noreferrer" className="btn-ghost">
               <Download size={16} /> Download Resume
             </a>
           </motion.div>

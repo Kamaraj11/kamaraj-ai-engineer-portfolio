@@ -1,4 +1,4 @@
-export const RESUME_URL = '/KAMARAJ_RESUME.pdf';
+export const RESUME_URL = '/Kamaraj_B_AI_Engineer_Resume.pdf';
 
 export const PERSONAL = {
   name: 'Kamaraj B',
